@@ -1,4 +1,4 @@
-package com.obatis.common.exception;
+package com.obatis.exception;
 
 /**
  * 自定义公共异常类
